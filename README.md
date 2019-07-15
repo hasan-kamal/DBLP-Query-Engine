@@ -5,6 +5,7 @@
 - It supports two types of queries on the DBLP bibliography:
     - _Query 1_: search using publication title(s) or author name; filter/sort output via date, relevance
     - _Query 2_: find authors having more than `K` publications, where `K` is given by user 
+- This application was developed as part of our course project for _CSE201: Advanced Programming_
 
 ### Repository structure
 -  `src/` contains entire java source code
