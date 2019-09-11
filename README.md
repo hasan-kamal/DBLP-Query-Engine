@@ -1,7 +1,7 @@
 # DBLP-Query-Engine
 
 ### Introduction
-- This is a Java-based [DBLP](https://dblp.uni-trier.de/) query application
+- This is a Java-based [DBLP](https://dblp.uni-trier.de/) query application developed by [Hasan Kamal](https://github.com/hasan-kamal) and [Luv Sharma](https://github.com/luv09)
 - It supports two types of queries on the DBLP bibliography:
     - _Query 1_: search using publication title(s) or author name; filter/sort output via date, relevance
     - _Query 2_: find authors having more than `K` publications, where `K` is given by user 
